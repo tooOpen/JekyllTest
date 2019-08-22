@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: /project
+url: tooopen.github.io
+baseurl: /JekyllTest
 
 # variables
 name: Your Site Name
