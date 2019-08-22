@@ -1,5 +1,5 @@
 permalink: /:year:month:day/:title
-url: tooopen.github.io
+url: tooopen.github.io/JekyllTest
 baseurl: /JekyllTest
 
 # variables
