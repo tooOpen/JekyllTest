@@ -1,4 +1,4 @@
-permalink: /:year:month:day/:title
+permalink: /JekyllTest/:year:month:day/:title
 url: tooopen.github.io/JekyllTest
 baseurl: /JekyllTest
 
